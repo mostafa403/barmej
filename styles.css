@@ -1,0 +1,25 @@
+body {
+    background: #f1f1f1;
+}
+
+.dars {
+    background: white;
+    width: 350px;
+    height: 150px;
+}
+
+.android_title {
+    background: #3d8929;
+}
+
+.dars_title {
+    height: 30px; 
+    text-align: center; 
+    padding-top: 10px;
+    color: white;
+}
+
+#website_title {
+    background: #2c3240;
+    color: white;
+}
